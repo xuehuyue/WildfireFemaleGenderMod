@@ -9,6 +9,6 @@ It works on client-side without issues but if you wish to add syncing support th
 
 G - Open Wildfire's Gender Menu
 
-## License
+## License1
 
 Wildfire's Female Gender Mod is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/WildfireRomeo/WildfireFemaleGenderMod/blob/fabric-1.20.2/LICENSE).
